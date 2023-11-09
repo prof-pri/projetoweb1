@@ -1,3 +1,45 @@
-<?php
-echo'olá PHP!';
-phpinfo();
+<!DOCTYPE html
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página de Apresentação</title>
+<link rel="stylesheet" href="Assets/css/style.css">
+</head>
+<body>
+
+<h1>
+<img src="./Assets/img/udesc.jpg" alt="Imagem Udesc" srcset="" width="250px"> Sistemas de Informação
+<br>
+CESMO
+<h1>
+
+<hr>
+
+<h2><i>Links</i> úteis: </h2>
+
+
+<ul>
+<li>
+<a href="https://www.google.com/" target="_blank">Google</a>
+</li>
+<li>
+<a href="https://www.udesc.com/">Udesc</a>
+</li>
+</ul>
+
+<h2>Formulário de Inscrição: </h2>
+
+<p>
+O formulário de cadastro permitirá que a Udesc entre em contato com você.
+</p>
+
+<p>
+
+Clique <a href="./formulario.html">aqui</a> para ir ao formulário de inscrição.
+
+</p>
+
+</body>
+
+</html
